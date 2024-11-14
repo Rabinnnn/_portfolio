@@ -754,7 +754,7 @@ a:hover {
 }
 
 
-@media (min-width: 1920px) {
+@media (min-width: 1800px) {
   .about-mf{
     padding-left: 20px;
     padding-right: 20px;
@@ -795,7 +795,7 @@ a:hover {
 
 
 
-@media (min-width: 1920px) {
+@media (min-width: 1800px) {
  .services-mf{
   padding-left: 20px;
   padding-right: 20px;
@@ -814,7 +814,7 @@ a:hover {
 
 
 
-@media (min-width: 1920px) {
+@media (min-width: 1800px) {
   .portfolio-mf{
    padding-left: 20px;
    padding-right: 20px;
