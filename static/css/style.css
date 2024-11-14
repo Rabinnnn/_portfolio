@@ -820,11 +820,18 @@ a:hover {
    padding-right: 20px;
    padding-bottom: 30px;
   }
+  .portfolio-mf .subtitle-a{
+   font-size: 25px;
+   }
   .portfolio-mf .work-box .work-content .w-title{
     font-size: 22px;
   }
   .portfolio-mf .work-box .work-content .w-ctegory{
     font-size: 18px;
+  }
+
+  .portfolio-mf .work-box .work-img #wk-img{
+    margin-bottom: 100px;
   }
 
   .section-counter .quote{
@@ -850,6 +857,27 @@ a:hover {
   }
   .intro .intro-content h1{
     font-size: 50px;
+  }
+
+  .paralax-mf .contact-mf .title-left{
+    padding-left: 150px;
+    padding-right: 150px;
+
+  }
+  .paralax-mf .contact-mf .more-info{
+    padding-left: 300px;
+    padding-right: 300px;
+
+  }
+  .paralax-mf .contact-mf .list-ico{
+    padding-left: 120px;
+    padding-right: 120px;
+
+  }
+  .paralax-mf .contact-mf .socials{
+    padding-left: 400px;
+    padding-right: 400px;
+
   }
  }
  
