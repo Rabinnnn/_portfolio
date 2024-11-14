@@ -525,7 +525,7 @@ a:hover {
 }
 
 .about-mf .about-img img {
-  margin-left: 10px;
+  margin-left: 5px;
 }
 
 
@@ -752,3 +752,105 @@ a:hover {
   color: #0078ff;
   margin-right: 10px;
 }
+
+
+@media (min-width: 1920px) {
+  .about-mf{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 60px;
+
+  }
+ .about-mf .about-info{
+  font-size:x-large;
+  padding: 20px;
+ }
+ .about-mf .skill-mf{
+  font-size:larger;
+  padding: 20px;
+ }
+ .about-mf .about-me p{
+  font-size:x-large;
+ }
+ .about-mf .about-me .lead1{
+  padding-bottom: 40px;
+ }
+
+.about-mf .box-shadow-full {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+.about-mf .about-img {
+  margin-bottom: 2rem;
+}
+
+.about-mf .about-img img {
+  margin-left: 10px;
+  padding-right: 30px;
+}
+
+}
+
+
+
+
+@media (min-width: 1920px) {
+ .services-mf{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 30px;
+ }
+
+ .services-mf .subtitle-a{
+  font-size: x-large;
+ }
+
+.service-box p{
+  font-size: x-large;
+}
+
+}
+
+
+
+@media (min-width: 1920px) {
+  .portfolio-mf{
+   padding-left: 20px;
+   padding-right: 20px;
+   padding-bottom: 30px;
+  }
+  .portfolio-mf .work-box .work-content .w-title{
+    font-size: 22px;
+  }
+  .portfolio-mf .work-box .work-content .w-ctegory{
+    font-size: 18px;
+  }
+
+  .section-counter .quote{
+    font-size:40px;
+    text-align: center;
+    padding-left: 50px;
+  }
+
+  .navbar{
+    padding-left: 50px;
+    padding-left: 50px;
+  }
+  .navbar .navbar-brand{
+    font-size: 35px;
+  }
+
+  .navbar-expand-md .navbar-nav .nav-link {
+    font-size: 20px;
+  }
+
+  .intro .intro-content p{
+    font-size: 40px;
+  }
+  .intro .intro-content h1{
+    font-size: 50px;
+  }
+ }
+ 
+ 
